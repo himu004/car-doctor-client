@@ -18,16 +18,16 @@ const Banner = () => {
             <h2 className="text-6xl font-bold w-1/2">Affordable <br /> Price For Car Servicing</h2>
             <p>There are many variations of passages of  available, but <br /> the majority have suffered alteration in some form</p>
             <div>
-                <button className="btn btn-error mr-5">Discover More</button>
+                <button className="btn btn-error mr-5 text-white">Discover More</button>
                 <button className="btn btn-outline border-white text-white">Latest Projects</button>
             </div>
           </div>
         </div>
         <div className="absolute flex transform -translate-y-1/2 left-5 right-5 justify-end bottom-0">
-          <a href="#slide6" className="btn btn-circle mr-5">
+          <a href="#slide6" className="btn btn-circle btn-error mr-5 text-white">
             ❮
           </a>
-          <a href="#slide2" className="btn btn-circle">
+          <a href="#slide2" className="btn btn-circle btn-error text-white">
             ❯
           </a>
         </div>
@@ -42,16 +42,16 @@ const Banner = () => {
             <h2 className="text-6xl font-bold w-1/2">Affordable <br /> Price For Car Servicing</h2>
             <p>There are many variations of passages of  available, but <br /> the majority have suffered alteration in some form</p>
             <div>
-                <button className="btn btn-error mr-5">Discover More</button>
+                <button className="btn btn-error text-white mr-5">Discover More</button>
                 <button className="btn btn-outline border-white text-white">Latest Projects</button>
             </div>
           </div>
         </div>
         <div className="absolute flex transform -translate-y-1/2 left-5 right-5 justify-end bottom-0">
-          <a href="#slide1" className="btn btn-circle mr-5">
+          <a href="#slide1" className="btn btn-circle btn-error mr-5 text-white">
             ❮
           </a>
-          <a href="#slide3" className="btn btn-circle">
+          <a href="#slide3" className="btn btn-circle btn-error text-white">
             ❯
           </a>
         </div>
@@ -66,16 +66,16 @@ const Banner = () => {
             <h2 className="text-6xl font-bold w-1/2">Affordable <br /> Price For Car Servicing</h2>
             <p>There are many variations of passages of  available, but <br /> the majority have suffered alteration in some form</p>
             <div>
-                <button className="btn btn-error mr-5">Discover More</button>
+                <button className="btn btn-error text-white mr-5">Discover More</button>
                 <button className="btn btn-outline border-white text-white">Latest Projects</button>
             </div>
           </div>
         </div>
         <div className="absolute flex transform -translate-y-1/2 left-5 right-5 justify-end bottom-0">
-          <a href="#slide2" className="btn btn-circle mr-5">
+          <a href="#slide2" className="btn btn-circle btn-error mr-5 text-white">
             ❮
           </a>
-          <a href="#slide4" className="btn btn-circle">
+          <a href="#slide4" className="btn btn-circle btn-error text-white">
             ❯
           </a>
         </div>
@@ -90,16 +90,16 @@ const Banner = () => {
             <h2 className="text-6xl font-bold w-1/2">Affordable <br /> Price For Car Servicing</h2>
             <p>There are many variations of passages of  available, but <br /> the majority have suffered alteration in some form</p>
             <div>
-                <button className="btn btn-error mr-5">Discover More</button>
+                <button className="btn btn-error text-white mr-5">Discover More</button>
                 <button className="btn btn-outline border-white text-white">Latest Projects</button>
             </div>
           </div>
         </div>
         <div className="absolute flex transform -translate-y-1/2 left-5 right-5 justify-end bottom-0">
-          <a href="#slide3" className="btn btn-circle mr-5">
+          <a href="#slide3" className="btn btn-circle btn-error mr-5 text-white">
             ❮
           </a>
-          <a href="#slide5" className="btn btn-circle">
+          <a href="#slide5" className="btn btn-circle btn-error text-white">
             ❯
           </a>
         </div>
@@ -114,16 +114,16 @@ const Banner = () => {
             <h2 className="text-6xl font-bold w-1/2">Affordable <br /> Price For Car Servicing</h2>
             <p>There are many variations of passages of  available, but <br /> the majority have suffered alteration in some form</p>
             <div>
-                <button className="btn btn-error mr-5">Discover More</button>
+                <button className="btn btn-error text-white mr-5">Discover More</button>
                 <button className="btn btn-outline border-white text-white">Latest Projects</button>
             </div>
           </div>
         </div>
         <div className="absolute flex transform -translate-y-1/2 left-5 right-5 justify-end bottom-0">
-          <a href="#slide4" className="btn btn-circle mr-5">
+          <a href="#slide4" className="btn btn-circle mr-5 btn-error text-white">
             ❮
           </a>
-          <a href="#slide6" className="btn btn-circle">
+          <a href="#slide6" className="btn btn-circle btn-error text-white">
             ❯
           </a>
         </div>
@@ -138,16 +138,16 @@ const Banner = () => {
             <h2 className="text-6xl font-bold w-1/2">Affordable <br /> Price For Car Servicing</h2>
             <p>There are many variations of passages of  available, but <br /> the majority have suffered alteration in some form</p>
             <div>
-                <button className="btn btn-error mr-5">Discover More</button>
+                <button className="btn btn-error text-white mr-5">Discover More</button>
                 <button className="btn btn-outline border-white text-white">Latest Projects</button>
             </div>
           </div>
         </div>
         <div className="absolute flex transform -translate-y-1/2 left-5 right-5 justify-end bottom-0">
-          <a href="#slide4" className="btn btn-circle mr-5">
+          <a href="#slide4" className="btn btn-circle mr-5 btn-error text-white">
             ❮
           </a>
-          <a href="#slide1" className="btn btn-circle">
+          <a href="#slide1" className="btn btn-circle btn-error text-white">
             ❯
           </a>
         </div>
