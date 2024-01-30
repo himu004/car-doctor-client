@@ -9,7 +9,7 @@ const Service = ({ service }) => {
 
   return (
     <div>
-      <div className="card bg-base-100 shadow-xl h-full">
+      <div className="card bg-base-100 border border-[#E8E8E8] h-full">
         <figure className="px-10 pt-10">
           <img
             src={img}
