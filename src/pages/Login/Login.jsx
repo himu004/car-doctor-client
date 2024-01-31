@@ -1,17 +1,20 @@
+import { Link } from 'react-router-dom';
+import loginImg from '../../assets/images/login/login.svg';
+
+import { FaFacebookF, FaGoogle, FaLinkedin } from "react-icons/fa6";
+
+
 const Login = () => {
   return (
     <div className="hero h-[90vh]">
       <div className="hero-content flex-col lg:flex-row">
         <div className="text-center lg:text-left w-1/2">
-          <h1 className="text-5xl font-bold">Login now!</h1>
-          <p className="py-6">
-            Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda
-            excepturi exercitationem quasi. In deleniti eaque aut repudiandae et
-            a id nisi.
-          </p>
+         
+          <img src={loginImg} alt="" />
         </div>
-        <div className="card shrink-0 w-full max-w-sm shadow-2xl bg-base-100">
-          <form className="card-body">
+        <div className="card shrink-0 w-1/2 max-w-sm bg-base-100 border p-10 m-10">
+          <form className="">
+          <h1 className="text-5xl font-bold text-center mb-5">Login now!</h1>
             <div className="form-control">
               <label className="label">
                 <span className="label-text">Email</span>
@@ -39,8 +42,20 @@ const Login = () => {
                 </a>
               </label>
             </div>
-            <div className="form-control mt-6">
-              <button className="btn btn-primary">Login</button>
+            <div className="form-control mt-6 text-center space-y-6">
+              <button className="btn bg-[#FF3811] text-white">Login</button>
+              <p>Or Sign In with</p>
+              <div className='flex justify-center gap-5'>
+                {/* Social Media Icons */}
+                <FaFacebookF />
+                <FaLinkedin />
+                <FaGoogle />
+              </div>
+              <p>Have an account?
+              <Link to="/" className='text-[#FF3811] font-bold ml-1'>
+                 Sign In
+              </Link>
+               </p>
             </div>
           </form>
         </div>
